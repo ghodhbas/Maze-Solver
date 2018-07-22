@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MazePath
+comment0.text=\r\n\ This\ Class\ represents\ a\ undirected\ edge\ of\ the\ maze\ graph\r\n
+comment1.params=destination\ steps
+comment1.target=MazePath(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MazePath\r\n
+comment2.params=
+comment2.target=int\ getDestination()
+comment2.text=get\ key\ of\ destination\ node
+comment3.params=
+comment3.target=int\ getSteps()
+comment3.text=get\ steps\ needed\ to\ complete\ of\ path\ (weith\ of\ edge)
+comment4.params=i
+comment4.target=void\ setSteps(int)
+comment4.text=get\ steps\ needed\ to\ complete\ of\ path\ (weith\ of\ edge)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=return\ a\ string\ representaion\ of\ the\ path
+numComments=6

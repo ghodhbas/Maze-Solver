@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Dice
+comment0.text=\r\n\ controls\ dice\ behaviour\r\n
+comment1.params=limit
+comment1.target=Dice(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dice\r\n
+comment2.params=seed\ limit
+comment2.target=Dice(int,\ int)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dice\r\n
+comment3.params=
+comment3.target=int\ roll()
+comment3.text=roll\ a\ number\ betwee\ 1\ and\ the\ limit
+numComments=4

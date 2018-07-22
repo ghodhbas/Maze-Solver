@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MazeGame
+comment0.text=\r\nConttrols\ the\ game\ progress\r\n
+comment1.params=fileName\ startexit\ visionLimit\ diceLimit
+comment1.target=MazeGame(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MazeGame\r\n
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ playRound()
+comment4.params=
+comment4.target=boolean\ playAll()
+comment5.params=
+comment5.target=java.lang.String\ getPlayersInfo()
+comment5.text=return\ a\ string\ containing\ the\ players'\ positions
+numComments=6

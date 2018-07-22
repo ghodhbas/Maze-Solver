@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Abstract\ class\ Player\ -\ write\ a\ description\ of\ the\ class\ here\r\n\r\n\ @author\ (your\ name\ here)\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
+comment1.params=visionLimit\ diceLimit\ start\ maze
+comment1.target=Player(int,\ int,\ int,\ Maze)
+comment10.params=
+comment10.target=boolean\ getExitReached()
+comment11.params=start
+comment11.target=int\ find(int)
+comment2.params=maze\ start
+comment2.target=int\ getNext(Maze,\ int)
+comment3.params=maze\ start
+comment3.target=void\ getNextShort(Maze,\ int)
+comment4.params=distances\ visited
+comment4.target=int\ minVertex(java.util.Hashtable,\ java.util.Hashtable)
+comment5.params=
+comment5.target=void\ play()
+comment6.params=
+comment6.target=java.lang.String\ getInfo()
+comment7.params=
+comment7.target=int\ getNext()
+comment8.params=
+comment8.target=int\ getStart()
+comment9.params=
+comment9.target=void\ setExitReached()
+numComments=12

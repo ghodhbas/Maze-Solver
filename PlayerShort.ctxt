@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PlayerShort
+comment0.text=\r\n\ This\ player\ follow\ dijkestra\ shortest\ path\ algorithm\ to\ decide\ the\ direction\r\n
+comment1.params=visionLimit\ diceLimit\ start\ maze
+comment1.target=PlayerShort(int,\ int,\ int,\ Maze)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PlayerShort\r\n
+comment2.params=start
+comment2.target=int\ find(int)
+comment2.text=find\ direction\ to\ go\ to
+numComments=3

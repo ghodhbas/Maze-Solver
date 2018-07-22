@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PlayerLong
+comment0.text=\r\n\ A\ player\ that\ follow\ the\ critical\ path\r\n
+comment1.params=visionLimit\ diceLimit\ start\ maze
+comment1.target=PlayerLong(int,\ int,\ int,\ Maze)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PlayerLong\r\n
+comment2.params=start
+comment2.target=int\ find(int)
+comment2.text=find\ max\ distance\ and\ returnthe\ the\ direction\ to\ go\ to
+numComments=3

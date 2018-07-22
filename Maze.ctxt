@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Maze
+comment0.text=\r\n\ this\ class\ contains\ the\ different\ nodes\ in\ the\ maze\ and\ manipulates\ them\r\n
+comment1.params=n
+comment1.target=Maze(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Maze\r\n
+comment2.params=fileName\ exit
+comment2.target=Maze(java.lang.String,\ java.util.ArrayList)
+comment2.text=construct\ maze\ from\ a\ text\ file
+comment3.params=node1\ node2\ steps
+comment3.target=boolean\ addPath(int,\ int,\ int)
+comment3.text=create\ an\ edge\ between\ two\ node
+comment4.params=node
+comment4.target=java.util.ArrayList\ getNeighbours(int)
+comment4.text=get\ the\ neighbours\ of\ a\ node
+comment5.params=i
+comment5.target=MazeNode\ getNode(int)
+comment5.text=return\ node\ with\ key\ i
+comment6.params=
+comment6.target=int\ nbNodes()
+comment6.text=return\ number\ of\ nodes\ in\ the\ maze
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=return\ a\ string\ representation\ of\ the\ maze
+numComments=8

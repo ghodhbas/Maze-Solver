@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MazeReader
+comment0.text=\r\n\ read\ the\ file\ containing\ the\ maze\ config\ and\ intitialize\ the\ date\r\n\r\n
+comment1.params=fileName
+comment1.target=MazeReader(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MazeReader\r\n
+comment2.params=
+comment2.target=int\ loadNbOfNodes()
+comment2.text=get\ the\ maximum\ number\ of\ nodes\ inthe\ graph
+comment3.params=
+comment3.target=java.util.ArrayList\ getLine()
+comment3.text=get\ info\ of\ each\ line
+comment4.params=
+comment4.target=boolean\ hasNextLine()
+numComments=5

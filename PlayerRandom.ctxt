@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PlayerRandom
+comment0.text=\r\n\ A\ player\ that\ picks\ a\ direction\ randomly\ from\ the\ set\ of\ node\ in\ its\ vision\ field\r\n
+comment1.params=visionLimit\ diceLimit\ start\ maze
+comment1.target=PlayerRandom(int,\ int,\ int,\ Maze)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PlayerRandom\r\n
+comment2.params=start
+comment2.target=int\ find(int)
+numComments=3
